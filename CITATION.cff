@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this reproducibility archive, please cite the associated manuscript."
+title: "Reproducibility archive: Evaluating Semantic and Relational Knowledge Preservation under Fair-Budget Multi-Document Compression"
+type: software
+authors:
+  - family-names: "Abdullah Junaidi"
+    given-names: "Shaufiah"
+  - family-names: "Li"
+    given-names: "Yuefeng"
+  - family-names: "Nayak"
+    given-names: "Richi"
+version: "1.0.0"
+date-released: 2026-09-20

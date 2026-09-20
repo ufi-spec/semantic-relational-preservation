@@ -1,0 +1,14 @@
+datasets>=3,<5
+spacy>=3.7,<4
+networkx>=3,<4
+scipy>=1.10,<2
+mlxtend>=0.23,<1
+transformers>=4.44,<5
+sentence-transformers>=3,<4
+accelerate>=0.34
+sentencepiece
+openpyxl
+pyarrow
+tqdm
+psutil
+torch

@@ -1,0 +1,15 @@
+{
+  "historical_run82_seed": 42,
+  "robustness_analysis_seed": 2026,
+  "run82": {
+    "alpha_topic": 0.3,
+    "beta_pattern": 0.7,
+    "delta_redundancy": 1.0,
+    "summary_sentence_budget": 15,
+    "n_topics": 25
+  },
+  "modern_baseline_n": 500,
+  "rebel_n": 500,
+  "ablation_n": 500,
+  "webnlg_regroupings": 100
+}

@@ -1,0 +1,40 @@
+{
+  "paper": 2,
+  "round": 1,
+  "selection_split": "validation",
+  "definitive_evaluation_split": "test",
+  "selected_validation_run_order": 82,
+  "selected_validation_configuration_id": "validation_a0.30_b0.70_d1.00_len15_topics25_clusters5621",
+  "selection_rule": "max preservation_f1; tie max rouge2_f1; tie max rougeSU4_recall; tie max compression_gain; tie lower runtime",
+  "weighted_composite_used": false,
+  "pareto_objectives": [
+    "rouge1_f1",
+    "rouge2_f1",
+    "rougeL_f1",
+    "rougeLsum_f1",
+    "rougeSU4_recall",
+    "preservation_f1",
+    "compression_gain"
+  ],
+  "selected_is_seven_objective_pareto": true,
+  "validation_rows": 120,
+  "validation_clusters_per_scenario": 5621,
+  "validation_results_sha256": "9ef9796b30ed6695f501bd330547b8c9b16c00abfe7ad1675d91b99b2a27a29a",
+  "alpha_topic": 0.3,
+  "beta_pattern": 0.7,
+  "delta_redundancy": 1.0,
+  "summary_sentence_budget": 15,
+  "n_topics": 25,
+  "selected_validation_metrics": {
+    "rouge1_f1": 0.4049990608467101,
+    "rouge2_f1": 0.1270065464375031,
+    "rougeL_f1": 0.1802632004174999,
+    "rougeLsum_f1": 0.3646723267265139,
+    "rougeSU4_recall": 0.2037470550190003,
+    "rougeSU4_f1": 0.1568894724627839,
+    "preservation_f1": 0.4275144656907249,
+    "compression_gain": 0.6785738954389363,
+    "runtime_minutes": 9.798614524250024
+  },
+  "frozen_before_test": true
+}

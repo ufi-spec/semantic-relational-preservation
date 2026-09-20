@@ -1,0 +1,3 @@
+metric_object,value,rounded_4dp,definition
+Round2 preservation_f1,0.39972919996596,0.3997,Round-2 method-parity dependency-triple aggregate preservation F1
+Round3 exact_triple_f1,0.39944697850517724,0.3994,Round-3 explicit exact structured-triple preservation F1
